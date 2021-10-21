@@ -1,0 +1,6 @@
+framework module Pods_YZRTLAppDemo {
+  umbrella header "Pods-YZRTLAppDemo-umbrella.h"
+
+  export *
+  module * { export * }
+}
